@@ -1,6 +1,6 @@
-# Welcome to Jexactyl!
+# Welcome to SolarHosting!
 
-Jexactyl is a modern, fast and feature-rich fork of [Pterodactyl Panel](https://github.com/pterodactyl/panel).
+SolarHosting is a modern, fast and feature-rich fork of [Pterodactyl Panel](https://github.com/pterodactyl/panel).
 Jexactyl aims to improve already-existing features of this software as well as integrate many more functions
 to make this software easier more advanced while also being nicer to use.
 
